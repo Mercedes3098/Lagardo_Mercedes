@@ -19,4 +19,4 @@ It has an HTML interface, CSS for styling, and JavaScript for the logic. The cal
 I update this project occasionally, especially when I learn new features or want to improve the design or performance.
 
 ## Have you used external libraries?
-No, this calculator was built using only vanilla JavaScript, HTML, and CSS. No external libraries were used.
+No, this calculator was built using only HTML, CSS, and vanilla JavaScript, without any external libraries.
